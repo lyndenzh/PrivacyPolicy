@@ -1,5 +1,5 @@
 # PrivacyPolicy
-PrivacyPolicy
+
 This Add-In does not capture or store any user data.
 
 The Autodesk App Store captures, and gives us access to, a download record containing the following personal information:
